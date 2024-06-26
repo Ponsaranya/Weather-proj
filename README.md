@@ -38,3 +38,7 @@ Notifications: Add alerts for severe weather conditions.
 Forecast Accuracy: Enhance weather forecasting algorithms.
 Conclusion:
 The Weather Forecast Application offers a streamlined experience for accessing accurate weather information through location-based services and interactive map features, catering to diverse user needs and preferences.
+
+
+AS WEATHER.PHP(ACCESSING LOCATION) IS IN PHP FILE THAT ALONE IS NOT WORKING
+
